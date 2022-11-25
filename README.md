@@ -1,1 +1,1 @@
-# Vision-Transformer-for-Face-Recognition
+# Vision Transformer for Face Recognition
